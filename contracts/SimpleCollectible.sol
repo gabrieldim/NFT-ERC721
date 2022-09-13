@@ -9,7 +9,7 @@ contract SimpleCollectible is ERC721 {
 
     uint256 public tokenCounter;
 
-    constructor () public ERC721 ("Nekoe Kutre - 181225", "PUG"){
+    constructor () public ERC721 ("Gabriel's NFT - 181225", "GAB"){
         tokenCounter = 0;
     }
 
